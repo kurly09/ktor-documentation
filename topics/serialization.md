@@ -256,7 +256,7 @@ The `Content-Type` of the request will be used to choose a [serializer](#configu
 
 
 
-You can find the full example here: [json-kotlinx](https://github.com/ktorio/ktor-documentation/tree/main/codeSnippets/snippets/json-kotlinx).
+You can find the full example here: [json-kotlinx](https://github.com/ktorio/ktor-documentation/tree/%branch-name%/codeSnippets/snippets/json-kotlinx).
 
 ### Send data {id="send_data"}
 To pass a data object in a response, you can use the [respond](https://api.ktor.io/ktor-server/ktor-server-core/ktor-server-core/io.ktor.response/respond.html) method:
@@ -264,7 +264,7 @@ To pass a data object in a response, you can use the [respond](https://api.ktor.
 ```
 {src="snippets/json-kotlinx/src/main/kotlin/com/example/Application.kt" lines="32-36"}
 
-In this case, Ktor uses the `Accept` header to choose the required [serializer](#configure_serializer). You can find the full example here: [json-kotlinx](https://github.com/ktorio/ktor-documentation/tree/main/codeSnippets/snippets/json-kotlinx).
+In this case, Ktor uses the `Accept` header to choose the required [serializer](#configure_serializer). You can find the full example here: [json-kotlinx](https://github.com/ktorio/ktor-documentation/tree/%branch-name%/codeSnippets/snippets/json-kotlinx).
 
 
 

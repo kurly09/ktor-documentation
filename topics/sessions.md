@@ -7,8 +7,8 @@
 Required dependencies: <code>io.ktor:%artifact_name%</code>
 </p>
 <p>Code examples:
-<a href="https://github.com/ktorio/ktor-documentation/tree/main/codeSnippets/snippets/session-cookie">session-cookie</a>,
-<a href="https://github.com/ktorio/ktor-documentation/tree/main/codeSnippets/snippets/sessions">sessions</a></p>
+<a href="https://github.com/ktorio/ktor-documentation/tree/%branch-name%/codeSnippets/snippets/session-cookie">session-cookie</a>,
+<a href="https://github.com/ktorio/ktor-documentation/tree/%branch-name%/codeSnippets/snippets/sessions">sessions</a></p>
 </microformat>
 
 <excerpt>
